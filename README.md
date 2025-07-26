@@ -73,71 +73,71 @@ Download from the Github repository: green button "clone or download". Then, unz
 
 2.A reasonable set of input parameters are as follows(record):
   -
-dx=7.5                           #Grid spacing in x
+dx=7.5        &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;               #Grid spacing in x
 
-dz=7.5                           #Grid spacing in z
+dz=7.5        &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;                     #Grid spacing in z
 
-L=100                            #PML thickness
+L=100         &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;                    #PML thickness
 
-Xn1=2001                    #Grid points in x
+Xn1=2001      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;                #Grid points in x
 
-Zn1=501                       #Grid points in z
+Zn1=501       &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;                  #Grid points in z
 
-dis_shot                        #Shot spacing
+dis_shot      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;                    #Shot spacing
 
-min_shot                      #First shot
+min_shot      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;                  #First shot
 
-max_shot                     #The last shot
+max_shot      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;                 #The last shot
 
-scale=1                           # receiver density
+scale=1       &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;                      # receiver density
 
-dt=7e-4                           # Sampling interval
+dt=7e-4       &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;                      # Sampling interval
 
-t=7                                        #Total sampling time
+t=7           &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;                               #Total sampling time
 
-FM                                  #Source central frequency
+FM            &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;                        #Source central frequency
 
-sy                                    #Shot depth
+sy               &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;                       #Shot depth
 
-gy                                    #Receiver depth
+gy                   &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;                   #Receiver depth
 
-FNvelocity                    #P-wave velocity model
+FNvelocity          &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;            #P-wave velocity model
 
-FNvs0                            #S-wave velocity model
+FNvs0                 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;             #S-wave velocity model
 
 3.A reasonable set of input parameters are as follows(migration1):
   -
-dx=7.5                           #Grid spacing in x
+dx=7.5              &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;               #Grid spacing in x
 
-dz=7.5                           #Grid spacing in z
+dz=7.5               &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;              #Grid spacing in z
 
-L=100                            #PML thickness
+L=100                 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;             #PML thickness
 
-Xn1=2001                    #Grid points in x
+Xn1=2001            &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;          #Grid points in x
 
-Zn1=501                       #Grid points in z
+Zn1=501             &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;            #Grid points in z
 
-dis_shot                        #Shot spacing
+dis_shot            &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;              #Shot spacing
 
-min_shot                      #First shot
+min_shot              &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;          #First shot
 
-max_shot                     #The last shot
+max_shot             &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;          #The last shot
 
-scale=1                           # receiver density
+scale=1              &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;               # receiver density
 
-FM                                  #Source central frequency
+FM                   &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;                 #Source central frequency
 
-sy                                    #Shot depth
+sy                   &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;                  #Shot depth
 
-gy                                    #Receiver depth
+gy                   &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;                   #Receiver depth
 
-FNvelocity                    #P-wave velocity model
+FNvelocity           &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;           #P-wave velocity model
 
-FNvs0                            #S-wave velocity model
+FNvs0                 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;             #S-wave velocity model
 
-FNrecord_ux               #x-component seismic records read
+FNrecord_ux            &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;     #x-component seismic records read
 
-FNrecord_uz               #z-component seismic records read
+FNrecord_uz           &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;      #z-component seismic records read
 
 4.Change the directory of data output in the code before running.
   -
