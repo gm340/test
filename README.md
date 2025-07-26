@@ -7,8 +7,11 @@ Build Instructions
 =
 
 Before compiling, make sure you have the following:
+
 ⦁	GNU
+
 ⦁	MPI
+
 ⦁	CUDA
 
 Key Steps
