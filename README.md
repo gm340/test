@@ -67,8 +67,8 @@ Installation from github
 
 If you want to access the source code and potentially contribute. You should follow the following steps.
 
-1. Download
-     -
+1.Download
+  -
 Download from the Github repository: green button "clone or download". Then, unzip it on your computer.
 
 2.A reasonable set of input parameters are as follows(record):
@@ -148,7 +148,7 @@ Run Instructions
 
 To run the program, do as follows(The execution procedures are consistent between the two directories):
 
-1.	cd /                     #after the /   is the directory where the program is stored
+1.cd /                     #after the /   is the directory where the program is stored
    
 2.make
 
